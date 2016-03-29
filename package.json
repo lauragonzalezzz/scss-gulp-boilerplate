@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lauragonzalezzz/scss-gulp-boilerplate/issues"
   },
-  "homepage": "https://github.com/lauragonzalezzz/scss-gulp-boilerplate#readme"
+  "homepage": "https://github.com/lauragonzalezzz/scss-gulp-boilerplate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
